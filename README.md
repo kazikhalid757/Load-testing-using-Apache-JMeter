@@ -1,5 +1,3 @@
-Here's a sample `README.md` file for setting up and using Apache JMeter on a Windows machine:
-
 ```markdown
 # Apache JMeter Setup on Windows
 
