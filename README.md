@@ -1,4 +1,3 @@
-```markdown
 # Apache JMeter Setup on Windows
 
 Apache JMeter is a powerful, open-source tool for load and performance testing of web applications. It can simulate multiple user requests, making it a valuable resource for testing the speed and stability of your applications.
