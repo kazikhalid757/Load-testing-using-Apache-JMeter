@@ -58,5 +58,5 @@ You have now successfully installed and set up Apache JMeter on your Windows mac
 - **Java not recognized**: Ensure Java is installed and added to your `PATH` variable.
 - **JMeter not launching**: Double-check the `JMETER_HOME` variable and ensure the `bin` directory path is correctly added to `PATH`.
 
-Happy testing!
-```
+
+### Happy testing!
